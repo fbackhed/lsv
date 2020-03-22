@@ -13,16 +13,16 @@ body {
 }
 
 @font-face {
-  font-family: 'authentic';
+  font-family: 'authentic-90';
   src: url('../fonts/AUTHENTICSans-90.otf');
   
     font-style: normal;
 }
 
 @font-face {
-  font-family: 'authentic';
+  font-family: 'authentic-130';
   src: url('../fonts/AUTHENTICSans-130.otf');
-  font-style: bold;
+  font-weight: bold;
     
 }
 
@@ -79,7 +79,7 @@ p {
     margin-left: 2.5%;
     margin-top: -5%;
     font-size:12pt;
-    font-family: "authentic";
+    font-family: "authentic-90";
 }
 
 .p1 {
@@ -89,8 +89,8 @@ p {
     margin-top: -4.5%;
     font-size: 15pt;
     letter-spacing: 3pt;
-    font-family: "authentic";
-    font-style: bold;
+    font-family: "authentic-130";
+    
     
 }
 
