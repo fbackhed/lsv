@@ -17,14 +17,14 @@ body {
 @font-face {
   font-family: 'authentic';
   src: url('../fonts/AUTHENTICSans-90.otf');
-  
+  font-weight:normal;
     
 }
 
 @font-face {
   font-family: 'authentic';
   src: url('../fonts/AUTHENTICSans-130.otf');
-  
+  font-weight: bold;
     
 }
 
@@ -86,7 +86,7 @@ img {
     font-size: 15pt;
     letter-spacing: 3pt;
     font-family: "authentic";
-    
+    font-weight:bold;
     
 }
 p {
@@ -96,7 +96,7 @@ p {
     margin-top: -5%;
     font-size:12pt;
     font-family: "authentic";
-    
+    font-weight: normal;
 }
 
 
