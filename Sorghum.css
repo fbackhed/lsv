@@ -1,0 +1,95 @@
+html, body {
+  height: 100%;
+    
+}
+
+.full-height {
+  height: 100%;
+}
+
+body {
+    background-color: black;
+        
+}
+
+img {
+    height: 10%;
+    margin-top: 2%;
+    margin-left:2%;
+    
+}
+
+.image2 {
+    height:50%;
+        margin-top:0%;
+    margin-left:20%;
+    position:relative;
+    z-index: -1;
+}
+
+
+
+.image3 {
+    height:45%;
+        margin-top:-40%;
+    margin-left:-7%;
+    position:inherit;
+    z-index: 1;
+}
+
+.image5 {
+    height:45%;
+        margin-top:-46%;
+    margin-left:2.5%;
+    position:inherit;
+    z-index:1;
+}
+
+.image4 {
+    height:45%;
+        margin-top:-40%;
+    margin-left:-98%;
+    position:inherit;
+    z-index: -1;
+}
+
+.image6 {
+    height:50%;
+        margin-top:20%;
+    margin-left:30%;
+    position:absolute;
+}
+
+p {
+    
+    color:white;
+    margin-left: 2.5%;
+    margin-top: -5%;
+}
+
+.p1 {
+    
+    color:white;
+    margin-left: 32%;
+    margin-top: -%;
+    font-size: 15pt;
+    letter-spacing: 3pt;
+    
+}
+
+.p2 {
+    
+    color:white;
+    margin-left: 2%;
+    font-size: 12pt;
+    
+    
+}
+
+
+
+
+a {
+    color:blue;
+
+}
