@@ -12,16 +12,18 @@ body {
         
 }
 
+
+
 @font-face {
   font-family: 'authentic';
-  src: url('../fonts/AUTHENTICSans-130.otf');
+  src: url('../fonts/AUTHENTICSans-90.otf');
   
     
 }
 
 @font-face {
   font-family: 'authentic';
-  src: url('../fonts/AUTHENTICSans-90.otf');
+  src: url('../fonts/AUTHENTICSans-130.otf');
   
     
 }
