@@ -22,7 +22,7 @@ body {
 @font-face {
   font-family: 'authentic';
   src: url('../fonts/AUTHENTICSans-130.otf');
-  font-weight: bold;
+  font-style: bold;
     
 }
 
@@ -90,7 +90,7 @@ p {
     font-size: 15pt;
     letter-spacing: 3pt;
     font-family: "authentic";
-    font-weight: bold;
+    font-style: bold;
     
 }
 
