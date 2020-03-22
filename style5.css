@@ -20,7 +20,7 @@ body {
 }
 
 @font-face {
-  font-family: 'authentic1';
+  font-family: 'authentic';
   src: url('../fonts/AUTHENTICSans-130.otf');
   font-weight: 100;
     font-style: bold;
@@ -89,7 +89,8 @@ p {
     margin-top: -4.5%;
     font-size: 15pt;
     letter-spacing: 3pt;
-    font-family: "authentic1";
+    font-family: "authentic";
+    font-style:bold;
     
 }
 
