@@ -69,14 +69,6 @@ img {
 }
 
 
-p {
-    
-    color:white;
-    margin-left: 2.5%;
-    margin-top: -5%;
-    font-family: helvetica;
-}
-
 .p1 {
     
     color:white;
@@ -84,7 +76,17 @@ p {
     margin-top: -4.5%;
     font-size: 15pt;
     letter-spacing: 3pt;
-    font-family: helvetica;
+    font-family: "authentic";
+    
+    
+}
+p {
+    
+    color:white;
+    margin-left: 2.5%;
+    margin-top: -5%;
+    font-size:12pt;
+    font-family: "authentic";
     
 }
 
@@ -95,6 +97,7 @@ p {
     margin-left: 10%;
     font-size: 12pt;
     z-index:2;
+    font-family: "authentic";
 }
 
 .p4 {
