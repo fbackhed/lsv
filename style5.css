@@ -16,13 +16,13 @@ body {
   font-family: 'authentic-90';
   src: url('../fonts/AUTHENTICSans-90.otf');
   
-    
+    font-style: normal;
 }
 
 @font-face {
   font-family: 'authentic-130';
   src: url('../fonts/AUTHENTICSans-130.otf');
-  
+  font-weight: bold;
     
 }
 
