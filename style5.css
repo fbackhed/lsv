@@ -13,16 +13,16 @@ body {
 }
 
 @font-face {
-  font-family: 'authentic-bold';
+  font-family: 'authentic-130';
   src: url('../fonts/AUTHENTICSans-bold.otf');
-  font-weight:bold;
+  
     
 }
 
 @font-face {
-  font-family: 'authentic-regular';
+  font-family: 'authentic-90';
   src: url('../fonts/AUTHENTICSans-regular.otf');
-  font-weight:normal;
+  
     
 }
 
@@ -76,14 +76,14 @@ img {
     margin-left:0%;
     position:absolute;
 }
-h1 {
+.p1 {
     
     color:white;
     margin-left: 34%;
     margin-top: -4.5%;
     font-size: 15pt;
     letter-spacing: 3pt;
-    font-family: "authentic-bold";
+    font-family: "authentic-130";
     
     
 }
@@ -93,8 +93,8 @@ p {
     margin-left: 2.5%;
     margin-top: -5%;
     font-size:12pt;
-    font-family: "authentic-regular";
-    font-weight: 400;
+    font-family: "authentic-90";
+    
 }
 
 
