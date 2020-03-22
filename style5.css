@@ -13,18 +13,20 @@ body {
 }
 
 @font-face {
+  font-family: 'authentic-130';
+  src: url('../fonts/AUTHENTICSans-130.otf');
+  
+    
+}
+
+@font-face {
   font-family: 'authentic-90';
   src: url('../fonts/AUTHENTICSans-90.otf');
   
     
 }
 
-@font-face {
-  font-family: 'authentic-130';
-  src: url('../fonts/AUTHENTICSans-130.otf');
-  
-    
-}
+
 
 
 
