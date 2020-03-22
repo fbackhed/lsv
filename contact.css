@@ -12,6 +12,15 @@ body {
         
 }
 
+@font-face {
+  font-family: 'authentic';
+    
+  src: url('../fonts/AUTHENTICSans-90.otf');
+
+  
+    
+}
+
 img {
     height: 10%;
     margin-top: 2%;
