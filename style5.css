@@ -13,16 +13,16 @@ body {
 }
 
 @font-face {
-  font-family: 'authentic-130';
-  src: url('../fonts/AUTHENTICSans-130.otf');
-  
+  font-family: 'authentic-bold';
+  src: url('../fonts/AUTHENTICSans-bold.otf');
+  font-weight:bold;
     
 }
 
 @font-face {
-  font-family: 'authentic-90';
-  src: url('../fonts/AUTHENTICSans-90.otf');
-  
+  font-family: 'authentic-regular';
+  src: url('../fonts/AUTHENTICSans-regular.otf');
+  font-weight:normal;
     
 }
 
@@ -83,7 +83,7 @@ h1 {
     margin-top: -4.5%;
     font-size: 15pt;
     letter-spacing: 3pt;
-    font-family: "authentic-130";
+    font-family: "authentic-bold";
     
     
 }
@@ -93,7 +93,7 @@ p {
     margin-left: 2.5%;
     margin-top: -5%;
     font-size:12pt;
-    font-family: "authentic-90";
+    font-family: "authentic-regular";
     font-weight: 400;
 }
 
