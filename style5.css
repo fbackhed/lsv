@@ -23,7 +23,7 @@ body {
   font-family: 'authentic';
   src: url('../fonts/AUTHENTICSans-130.otf');
   font-weight: 100;
-    font-style: bold;
+    font-weight: bold;
 }
 
 img {
@@ -90,7 +90,7 @@ p {
     font-size: 15pt;
     letter-spacing: 3pt;
     font-family: "authentic";
-    font-style:bold;
+    font-weight:bold;
     
 }
 
