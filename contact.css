@@ -29,9 +29,9 @@ img {
 }
 
 .image2 {
-    height:50%;
+    height:0%;
         margin-top:1%;
-    margin-left:25%;
+    margin-left:15%;
     position:relative;
 }
 
@@ -67,6 +67,14 @@ img {
     margin-left:30%;
     position:absolute;
 }
+
+.image10 {
+    height:60%;
+        margin-top:1%;
+    margin-left:2%;
+    position:absolute;
+}
+
 
 .p1 {
     

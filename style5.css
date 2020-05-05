@@ -34,9 +34,9 @@ img {
 }
 
 .image2 {
-    height:40%;
-        margin-top:2%;
-    margin-left:10%;
+    height:100%;
+        margin-top:0%;
+    margin-left:2%;
     position:relative;
 }
 
@@ -44,34 +44,75 @@ img {
 
 .image3 {
     height:40%;
-        margin-top:30%;
-    margin-left:-40%;
+        margin-top:4%;
+    margin-left:-30%;
     position:absolute;
-    z-index: 1;
+    z-index: -1;
 }
 
 .image5 {
-    height:40%;
-        margin-top:-46%;
-    margin-left:2.5%;
-    position:inherit;
-    z-index:1;
+    height:25%;
+        margin-top:-0%;
+    margin-left:-85%;
+    position:absolute;
+    z-index:-2;
 }
 
 .image4 {
-    height:40%;
-        margin-top:30%;
-    margin-left:%;
+    height:25%;
+        margin-top:42%;
+    margin-left:-35%;
+    position:absolute;
+    z-index: -1;
+}
+
+.image7 {
+    height:25%;
+        margin-top:52%;
+    margin-left:-80%;
     position:absolute;
     z-index: -1;
 }
 
 .image6 {
-    height:40%;
-    margin-top:0%;
-    margin-left:0%;
+    height:25%;
+    margin-top:20%;
+    margin-left:-65%;
     position:absolute;
+    z-index: -2;
 }
+
+.image8 {
+    height:60%;
+        margin-top:22%;
+    margin-left:10%;
+    position:relative;
+}
+
+.image9 {
+    height:50%;
+        margin-top:58%;
+    margin-left:-40%;
+    position:absolute;
+    z-index: -1;
+}
+
+.image10 {
+    height:30%;
+        margin-top:30%;
+    margin-left:-40%;
+    position:absolute;
+    z-index: -1;
+}
+
+.image11 {
+    height:30%;
+        margin-top:14%;
+    margin-left:5%;
+    position:absolute;
+    z-index: -1;
+}
+
 .p1 {
     
     color:white;
@@ -111,7 +152,7 @@ p {
     font-family: "authentic";
     font-size:11pt;
     margin-top:140pt;
-    margin-left:pt;
+    margin-left:50%;
 }
 
 
